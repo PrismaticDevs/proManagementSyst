@@ -4,6 +4,7 @@
 
 - [License](#license)
 - [Description](#description)
+- [Deployed](#deployed)
 - [Installation](#installation)
 - [Usage](#instructions)
 - [Contributors](#contributors)
@@ -25,6 +26,10 @@ Got problems? Not anymore! With our free, sleek, and simple approach to problem 
 
 This project taught us that everyone has daily routines that need to be organized. The possibilities are endless and now are made more efficient.
 
+## Deployed
+
+<a href="https://prismatic-project-management.herokuapp.com/">https://prismatic-project-management.herokuapp.com/</a>
+
 ## Installation
 
 To run the Project Management System a user needs to simply sign up for an account.
@@ -33,16 +38,13 @@ To run the Project Management System a user needs to simply sign up for an accou
 
 PMS was made over long painstaking hours by an amazing team of developers. The application uses an array of technologies not limited to and including VSCode, HTML, CSS, JavaScript, Node.js, Postman, MySQL Workbench, a WYSIWYG editor and others.
 
-
 ![Projects](./public/images/Projects.png)
-
 
 ![Single Project](./public/images/IndividualProject.png)
 
-
 ## Contributors
 
-Matthew Brignola, Andrew McInally, Stephen Moore, Jenya Seletsky, 
+Matthew Brignola, Andrew McInally, Stephen Moore, Jenya Seletsky,
 
 ## Questions
 
